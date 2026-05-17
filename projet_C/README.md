@@ -1,2 +1,0 @@
-# projetC
-PGCD
